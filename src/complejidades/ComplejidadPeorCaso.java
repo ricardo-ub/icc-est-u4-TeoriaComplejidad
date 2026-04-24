@@ -1,15 +1,16 @@
 package complejidades;
 
-    // Complejidad Lineal-Logarítmica: O(n log n)
-    // Razón: Ocurre cuando un algoritmo combina un proceso lineal (recorre todos los datos)
-    // con uno logarítmico (divide el problema en partes más pequeñas). Es común en algoritmos
-    // eficientes de ordenamiento como Merge Sort o Quick Sort, donde se recorren los elementos
-    // mientras se los divide en mitades.
+/* Peor Caso de NlogN: O(n log n)
+    Razón: En algoritmos estables como Merge Sort, el peor escenario 
+    requiere la misma cantidad de divisiones que el promedio. Esto 
+    garantiza que el programa nunca se vuelva lento, incluso con 
+    los datos en el peor orden posible.
+*/
 
 public class ComplejidadPeorCaso {
     public void ejemploNLogN() {
         System.out.println("Ejemplo O(n log n):");
-        int n = 8; // Número de elementos
+        int n = 8;
         
         
         for (int i = 0; i < n; i++) {
