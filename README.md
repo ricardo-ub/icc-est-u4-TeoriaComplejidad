@@ -1,10 +1,11 @@
 # Universidad Politecnica Salesiana
 
 ## Proyecto: Teoria de la Complejidad
+## Grupo: 5
 ## Estudiantes: Nicolas Aguilar, David Fajardo, Carlos Tello, Ricardo Uzhca, Martin Villacres
 
-## Practica 1.1: Metodo Burbuja
-### Fecha: 2026-04-20
+## Practica 4.2: Investigación Repositorio
+### Fecha: 2026-04-24
 ### Descripción
 
 # ¿Qué es la complejidad?
