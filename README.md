@@ -1,3 +1,12 @@
+# Universidad Politecnica Salesiana
+
+## Proyecto: Teoria de la Complejidad
+## Estudiantes: Nicolas Aguilar, David Fajardo, Carlos Tello, Ricardo Uzhca, Martin Villacres
+
+## Practica 1.1: Metodo Burbuja
+### Fecha: 2026-04-20
+### Descripción
+
 # ¿Qué es la complejidad?
 Es el estudio encargado de analizar el comportamiento de los algoritmos según los recursos necesarios para su ejecución. Se enfoca en estimar cuánto tiempo tardará un programa y cuánta memoria consumirá antes de ser ejecutado.
 
