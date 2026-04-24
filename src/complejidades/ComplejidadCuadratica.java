@@ -5,7 +5,13 @@ package complejidades;
     tamaño de la entrada. Esto sucede principalmente cuando hay bucles 
     anidados (un ciclo dentro de otro). Se vuelve ineficiente con muchos 
     datos porque el número de tareas aumenta drásticamente.
+
+    Explicación:
+    1. Usa ciclos anidados.
+        2. El número de operaciones crece muy rápido.
+            3. A mayor n, mucho más trabajo.
  */
+
 public class ComplejidadCuadratica {
     public void ejemploCuadratico() {
         System.out.println("Ejemplo O(n^2):");

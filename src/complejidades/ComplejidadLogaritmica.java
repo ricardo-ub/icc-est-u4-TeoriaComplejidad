@@ -5,6 +5,11 @@ package complejidades;
     en cada paso. Es muy eficiente porque, a medida que aumentan los 
     datos, el número de operaciones crece muy poco, permitiendo manejar 
     grandes volúmenes de información rápidamente.
+
+    Explicación:
+    1. Divide el problema a la mitad.
+        2. Hace pocas operaciones.
+            3. Es eficiente con muchos datos.
 */
 
 public class ComplejidadLogaritmica {

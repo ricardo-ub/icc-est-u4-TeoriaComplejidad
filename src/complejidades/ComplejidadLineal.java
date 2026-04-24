@@ -2,11 +2,15 @@ package complejidades;
 
 public class ComplejidadLineal {
 
-    /**
-     * Complejidad: O(n)
-     * Razón: El tiempo de ejecución depende directamente
-     * del tamaño del arreglo.
-     */
+    /*
+    Complejidad: O(n)
+        Razón:
+        - El número de operaciones depende del tamaño del arreglo.
+        - Existe un ciclo que recorre todos los elementos.
+        - Si aumenta n, aumentan las iteraciones.
+        - El crecimiento es proporcional.
+    */
+
     public void ejemplo() {
         System.out.println("Ejemplo O(n):");
 
